@@ -52,7 +52,7 @@ function removeProduct(event) {
     }
   });
 }
-// ITERATION4 !!!Ne fonctionne pas !!!
+// ITERATION4 !!!Ne fonctionne pas !!!!
 
 // ITERATION 5
 
